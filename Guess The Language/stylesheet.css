@@ -1,0 +1,15 @@
+.answer-container{
+    width: 154px;
+    overflow-y: auto;
+    margin: 0 auto;
+}
+
+.question-text{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.answer-button{
+    width: 75px;
+}
